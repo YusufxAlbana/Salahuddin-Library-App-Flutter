@@ -8,14 +8,14 @@ class ImageConstant {
 
   // Library Dashboard Screen
   static String imgGroup14 = '${_basePath}img_group_14.svg';
-  static String imgGroup60 = '${_basePath}img_group_60.svg';
-  static String imgGroup70 = '${_basePath}img_group_70.svg';
+  static String imgGroup60 = 'assets/icons/pengguna.svg';
+  static String imgGroup70 = 'assets/icons/buku.svg';
   static String imgGroup71 = '${_basePath}img_group_71.svg';
   static String imgRectangle14 = '${_basePath}img_rectangle_14.png';
   static String imgSearch = '${_basePath}img_search.svg';
-  static String imgStreamlineStic = '${_basePath}img_streamline_stic.svg';
-  static String imgUnion = '${_basePath}img_union.png';
-  static String imgVector = '${_basePath}img_vector.svg';
+  static String imgStreamlineStic = 'assets/icons/donasi buku.svg';
+  static String imgUnion = 'assets/icons/verif KTP.svg';
+  static String imgVector = 'assets/icons/peminjaman.svg';
   static String imgVectorGray800 = '${_basePath}img_vector_gray_800.svg';
   static String imgVectorGray80032x32 =
       '${_basePath}img_vector_gray_800_32x32.svg';

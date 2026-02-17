@@ -59,7 +59,7 @@ class StatisticsCardWidget extends StatelessWidget {
               children: [
                 CustomGradientIconButton(
                   iconPath: iconPath,
-                  padding: EdgeInsets.all(14.h),
+                  padding: EdgeInsets.all(10.h),
                 ),
                 Container(
                   width: iconPath == ImageConstant.imgVector ? 40.h : 36.h,
